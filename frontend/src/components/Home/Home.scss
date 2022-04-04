@@ -1,0 +1,6 @@
+.container{
+    display: flex;
+    flex-wrap: wrap; // satır dolduğunda aşağıya geçecek
+    justify-content: space-around; // kenarlara ve kendi aralarına boşluk
+    
+}
